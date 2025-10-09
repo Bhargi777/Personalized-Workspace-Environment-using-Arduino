@@ -1,10 +1,10 @@
-# Smart Workspace Monitor - Project Overview 📋
+# Smart Workspace Monitor - Project Overview 
 
 ## Project Introduction
 
 The Smart Workspace Monitor is an innovative Arduino-based IoT solution designed to address the growing health concerns associated with prolonged desk work and sedentary lifestyles. In an era where remote work and extended computer usage have become the norm, this project aims to create an intelligent workspace companion that promotes healthy work habits while optimizing environmental comfort.
 
-## Problem Statement 🎯
+## Problem Statement 
 
 ### The Modern Workspace Challenge
 
@@ -24,7 +24,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Separate devices for different functions create complexity and cost
 - Most solutions lack integration and automation
 
-## Project Vision & Mission 🌟
+## Project Vision & Mission 
 
 ### Vision Statement
 *"To create intelligent, autonomous workspace environments that seamlessly promote health, comfort, and productivity without user intervention."*
@@ -32,7 +32,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 ### Mission
 *"Developing accessible, Arduino-based solutions that democratize smart workspace technology, making healthy work environments available to everyone, regardless of budget or technical expertise."*
 
-## Project Goals & Objectives 🎯
+## Project Goals & Objectives 
 
 ### Primary Goals
 
@@ -95,7 +95,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Ergonomics specialists seeking automated solutions
 - Wellness consultants promoting healthy work habits
 
-## Design Philosophy 🎨
+## Design Philosophy 
 
 ### Core Principles
 
@@ -124,7 +124,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Community-driven development and improvement
 - Educational value through transparent implementation
 
-## Key Innovation Areas 🚀
+## Key Innovation Areas 
 
 ### Technological Innovations
 
@@ -155,7 +155,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Visual and audio feedback that's informative but not annoying
 - Customizable parameters for different user preferences
 
-## Project Scope & Limitations 📏
+## Project Scope & Limitations 
 
 ### Current Scope (Version 1.0)
 
@@ -200,7 +200,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Integration with calendar and productivity apps
 - Machine learning for personalized recommendations
 
-## Technology Stack 🛠️
+## Technology Stack 
 
 ### Hardware Platform
 - **Microcontroller**: Arduino Uno (ATmega328P)
@@ -221,7 +221,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - **Version Control**: Git for code management
 - **Documentation**: Markdown for project documentation
 
-## Learning Outcomes & Educational Value 📚
+## Learning Outcomes & Educational Value 
 
 ### Technical Skills Developed
 
@@ -257,7 +257,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Testing and validation procedures
 - Iterative development and improvement
 
-## Real-World Applications 🌍
+## Real-World Applications 
 
 ### Immediate Applications
 
@@ -295,7 +295,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Corporate wellness program tools
 - Ergonomic furniture integration
 
-## Social Impact & Benefits 🌱
+## Social Impact & Benefits 
 
 ### Health & Wellness Benefits
 
@@ -333,7 +333,7 @@ Existing solutions typically address only single aspects of workspace wellness:
 - Reduced electronic waste through durable, repairable design
 - Promotion of sustainable technology practices
 
-## Project Success Metrics 📊
+## Project Success Metrics 
 
 ### Quantitative Measures
 
