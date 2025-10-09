@@ -1,4 +1,4 @@
-# Smart Workspace Monitor 🏢💻
+# Smart Workspace Monitor 
 
 An intelligent Arduino-based workspace monitoring system that promotes healthy work habits through automated environmental controls and posture break reminders.
 
@@ -168,91 +168,7 @@ Serial.begin(9600);
 // Add Serial.println() statements throughout code to monitor values
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-### Areas for Contribution
-
-- 📱 Mobile app development
-- 🌐 WiFi connectivity features
-- 📊 Data logging and analytics
-- 🎨 3D printed enclosures
-- 📚 Additional documentation
-- 🧪 Testing on different hardware
-
-## 🗺️ Roadmap
-
-### Version 1.0 (Current) ✅
-- [x] Basic presence detection
-- [x] Posture break reminders
-- [x] Environmental controls
-- [x] LCD status display
-
-### Version 2.0 (Planned) 🚧
-- [ ] WiFi connectivity
-- [ ] Mobile app interface
-- [ ] Data logging to SD card
-- [ ] Advanced break exercises
-- [ ] Multiple user profiles
-
-### Version 3.0 (Future) 🔮
-- [ ] Machine learning for personalized patterns
-- [ ] Integration with calendar apps
-- [ ] Voice commands
-- [ ] Air quality monitoring
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Arduino community for excellent documentation and support
-- Open-source sensor libraries that made development possible
-- Ergonomics and health research that informed our break timing algorithms
-- Beta testers who provided valuable feedback
-
-## 📞 Support & Community
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/smart-workspace-monitor/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/smart-workspace-monitor/discussions)
-- 📧 **Email**: your.email@example.com
-- 🌐 **Website**: [Project Homepage](https://your-website.com)
-
-## 📈 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/smart-workspace-monitor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/smart-workspace-monitor?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/smart-workspace-monitor?style=social)
-
----
-
-**Made with ❤️ for healthier workspaces**
-
-*Remember: This system is designed to promote healthy work habits. Always listen to your body and take breaks as needed!*
-
-## 🎬 Demo
-
-> **Coming Soon**: Video demonstration of the system in action!
-
-**Key Demo Points:**
-- Presence detection triggering working mode
-- Automatic environmental adjustments
-- Break reminder system in action
-- Power saving mode when away
-- Real-time status updates on LCD
-
----
-
-### 📱 Connect With Us
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
