@@ -1,4 +1,4 @@
-# Smart Workspace Monitor - System Functioning 🔄
+# Smart Workspace Monitor - System Functioning 
 
 ## Overview
 
@@ -6,7 +6,7 @@ The Smart Workspace Monitor is an intelligent Arduino-based system designed to p
 
 ## Core System Functions
 
-### 1. User Presence Detection 👤
+### 1. User Presence Detection 
 
 **How it Works:**
 - Uses HC-SR04 ultrasonic sensor to detect user presence within 50cm range
@@ -26,7 +26,7 @@ if (distance < settings.presenceDistanceCm && distance > 0) {
 }
 ```
 
-### 2. Posture Break Management ⏰
+### 2. Posture Break Management 
 
 **Functionality:**
 - Tracks continuous working time using `millis()` function
@@ -60,7 +60,7 @@ void checkPosture(WorkspaceState *currentState) {
 }
 ```
 
-### 3. Temperature-Based Fan Control 🌡️
+### 3. Temperature-Based Fan Control 
 
 **Smart Climate Control:**
 - LM35 temperature sensor provides real-time temperature readings
@@ -86,7 +86,7 @@ void controlFan() {
 #define CALCULATE_CELSIUS(voltage) ((voltage - 0.5) * 100)
 ```
 
-### 4. Adaptive Lighting System 💡
+### 4. Adaptive Lighting System 
 
 **Ambient Light Response:**
 - LDR (Light Dependent Resistor) monitors ambient light levels
@@ -105,7 +105,7 @@ void controlLight() {
 }
 ```
 
-### 5. Real-time Status Display 📺
+### 5. Real-time Status Display 
 
 **LCD Information System:**
 - 16x2 character LCD provides continuous status updates
@@ -119,7 +119,7 @@ void controlLight() {
 
 ## System States and Transitions
 
-### State 1: Away Mode (Power Saving) 🔋
+### State 1: Away Mode (Power Saving) 
 
 **Activation Conditions:**
 - No user detected within presence range
@@ -132,7 +132,7 @@ void controlLight() {
 - LCD: Shows away status
 - Posture timer: Inactive
 
-### State 2: Working Mode (Active Monitoring) 💼
+### State 2: Working Mode (Active Monitoring) 
 
 **Activation Conditions:**
 - User detected within presence range
@@ -145,7 +145,7 @@ void controlLight() {
 - LCD: Shows working status
 - Environmental controls: Fully active
 
-### State 3: Break Mode (Health Alert) 🚨
+### State 3: Break Mode (Health Alert) 
 
 **Activation Conditions:**
 - User present continuously for time limit duration

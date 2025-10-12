@@ -1,4 +1,4 @@
-# Smart Workspace Monitor - Pin Connections & Wiring 🔌
+# Smart Workspace Monitor - Pin Connections & Wiring 
 
 ## Arduino Pin Assignment Table
 
@@ -27,7 +27,7 @@
 
 ## Detailed Wiring Connections
 
-### 1. LCD Display (16x2) Wiring 📺
+### 1. LCD Display (16x2) Wiring 
 
 **LCD Pin Layout:**
 ```
@@ -61,7 +61,7 @@ LCD Pin | Function | Arduino Connection | Notes
 10. Connect backlight A (pin 15) to 5V through 220Ω resistor
 11. Connect backlight K (pin 16) to GND
 
-### 2. HC-SR04 Ultrasonic Sensor Wiring 📡
+### 2. HC-SR04 Ultrasonic Sensor Wiring 
 
 **Sensor Pin Configuration:**
 ```
@@ -80,7 +80,7 @@ Echo        | Echo     | Pin 7             | Green
 - Operating frequency: 40kHz
 - Trigger pulse must be 10µs HIGH signal
 
-### 3. LM35 Temperature Sensor Wiring 🌡️
+### 3. LM35 Temperature Sensor Wiring 
 
 **LM35 Pin Configuration:**
 ```
@@ -97,7 +97,7 @@ LM35 Pin | Function | Arduino Connection | Description
 - Arduino reads: (ADC_value / 1024) * 5V
 - Temperature = (Voltage - 0.5V) * 100
 
-### 4. LDR (Light Sensor) Circuit Wiring 💡
+### 4. LDR (Light Sensor) Circuit Wiring 
 
 **LDR Voltage Divider Circuit:**
 ```
@@ -113,7 +113,7 @@ LM35 Pin | Function | Arduino Connection | Description
 - Bright light: Low LDR resistance → Higher voltage
 - Dark conditions: High LDR resistance → Lower voltage
 
-### 5. Fan Motor Driver Circuit ⚡
+### 5. Fan Motor Driver Circuit 
 
 **Motor Control Setup:**
 ```
@@ -137,7 +137,7 @@ GND ------------------- Emitter -----+
 - Transistor handles motor current, Arduino provides control signal
 - PWM frequency: ~490Hz (Arduino default)
 
-### 6. LED Circuit Wiring 💡
+### 6. LED Circuit Wiring 
 
 **LED Driver Circuit:**
 ```
@@ -152,7 +152,7 @@ Arduino Pin 9 (PWM) ----[220Ω]---- LED Anode
 - LED current: ~20mA maximum
 - PWM frequency: ~490Hz
 
-### 7. Buzzer Connection 🔊
+### 7. Buzzer Connection 
 
 **Active Buzzer Wiring:**
 ```
@@ -186,7 +186,7 @@ GND -------------------------- Buzzer Negative
 - **External Adapter**: 5V, 2A minimum for reliable operation
 - **Battery Operation**: 4x AA batteries (6V) with voltage regulator
 
-## PCB Layout Considerations 🔧
+## PCB Layout Considerations 
 
 ### Component Placement Tips
 1. **Keep analog circuits away from digital switching**
@@ -201,7 +201,7 @@ GND -------------------------- Buzzer Negative
 - Include decoupling capacitors (100nF ceramic, 10µF electrolytic)
 - Consider shielding for sensitive analog signals
 
-## Troubleshooting Connection Issues 🔍
+## Troubleshooting Connection Issues 
 
 ### Common Wiring Problems
 
