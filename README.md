@@ -123,7 +123,7 @@ ldrLowThreshold = 6;       // Calibrate for your lighting
 ldrHighThreshold = 679;    // Adjust based on environment
 ```
 
-## 📊 System Specifications
+##  System Specifications
 
 | Specification | Value |
 |---------------|-------|
@@ -134,7 +134,7 @@ ldrHighThreshold = 679;    // Adjust based on environment
 | **Response Time** | <500ms |
 | **Update Frequency** | 200ms |
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
