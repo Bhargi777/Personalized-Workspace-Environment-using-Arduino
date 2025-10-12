@@ -11,17 +11,17 @@ An intelligent Arduino-based workspace monitoring system that promotes healthy w
 ## TinkerCad Link 
 - **The link for the circuit:** -## [TinkerCad](https://www.tinkercad.com/things/iUn9QdFoEgi-personalized-workspace-environment-using-arduino)
  
-## 🌟 Features
+##  Features
 
-- **👤 Smart Presence Detection** - Ultrasonic sensor automatically detects when you're at your desk
-- **⏰ Posture Break Reminders** - Configurable alerts to encourage healthy work habits
-- **🌡️ Temperature Control** - Automatic fan speed adjustment based on ambient temperature
-- **💡 Adaptive Lighting** - LED brightness adapts to ambient light conditions
-- **📺 Real-time Display** - LCD shows current status and break countdown
-- **🔋 Power Saving** - Reduces power consumption when workspace is unoccupied
-- **🔊 Audio Alerts** - Gentle buzzer reminders for break time
+- ** Smart Presence Detection** - Ultrasonic sensor automatically detects when you're at your desk
+- ** Posture Break Reminders** - Configurable alerts to encourage healthy work habits
+- ** Temperature Control** - Automatic fan speed adjustment based on ambient temperature
+- ** Adaptive Lighting** - LED brightness adapts to ambient light conditions
+- ** Real-time Display** - LCD shows current status and break countdown
+- ** Power Saving** - Reduces power consumption when workspace is unoccupied
+- ** Audio Alerts** - Gentle buzzer reminders for break time
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -82,22 +82,22 @@ An intelligent Arduino-based workspace monitoring system that promotes healthy w
 | [⚙️ FUNCTIONING.md](FUNCTIONING.md) | Detailed explanation of how the system works |
 | [🔌 PIN-CONNECTIONS.md](PIN-CONNECTIONS.md) | Comprehensive wiring guide and circuit diagrams |
 
-## 🎯 Usage
+##  Usage
 
 ### System States
 
-**🏠 Away Mode**
+** Away Mode**
 - Activates when no user detected
 - Powers down fan and dims LED
 - Shows "Status: Away" on LCD
 
-**💼 Working Mode**
+** Working Mode**
 - Activates when user is present
 - Environmental controls active
 - Posture timer running
 - Shows "Status: Working" on LCD
 
-**☕ Break Mode**
+** Break Mode**
 - Triggered after prolonged sitting
 - Buzzer sounds reminder
 - Shows countdown timer
@@ -109,7 +109,7 @@ An intelligent Arduino-based workspace monitoring system that promotes healthy w
 - **Reset**: Press Arduino reset button
 - **Calibration**: Adjust LDR thresholds in code for your lighting conditions
 
-## 🔧 Customization
+##  Customization
 
 ### Timing Settings
 ```cpp
@@ -172,7 +172,7 @@ Serial.begin(9600);
 // Add Serial.println() statements throughout code to monitor values
 ```
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
