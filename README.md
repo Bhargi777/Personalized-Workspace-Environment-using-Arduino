@@ -2,12 +2,6 @@
 
 An intelligent Arduino-based workspace monitoring system that promotes healthy work habits through automated environmental controls and posture break reminders.
 
-[![Arduino](https://img.shields.io/badge/Arduino-Uno-blue.svg)](https://www.arduino.cc/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
-[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)]()
-
-
 ## TinkerCad Link 
 - **The link for the circuit:** -## [TinkerCad](https://www.tinkercad.com/things/iUn9QdFoEgi-personalized-workspace-environment-using-arduino)
  
