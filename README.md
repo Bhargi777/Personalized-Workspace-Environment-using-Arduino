@@ -72,9 +72,9 @@ An intelligent Arduino-based workspace monitoring system that promotes healthy w
 
 | Document | Description |
 |----------|-------------|
-| [📖 PROJECT-OVERVIEW.md](PROJECT-OVERVIEW.md) | Complete project background, goals, and vision |
-| [⚙️ FUNCTIONING.md](FUNCTIONING.md) | Detailed explanation of how the system works |
-| [🔌 PIN-CONNECTIONS.md](PIN-CONNECTIONS.md) | Comprehensive wiring guide and circuit diagrams |
+| [ PROJECT-OVERVIEW.md](PROJECT-OVERVIEW.md) | Complete project background, goals, and vision |
+| [ FUNCTIONING.md](FUNCTIONING.md) | Detailed explanation of how the system works |
+| [ PIN-CONNECTIONS.md](PIN-CONNECTIONS.md) | Comprehensive wiring guide and circuit diagrams |
 
 ##  Usage
 
